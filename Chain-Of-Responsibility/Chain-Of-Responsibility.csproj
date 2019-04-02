@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cor\CheckKbbScore.cs" />
     <Compile Include="Cor\CreditRequestBase.cs" />
     <Compile Include="Entities\Customer.cs" />
     <Compile Include="Program.cs" />

@@ -10,6 +10,7 @@ namespace Chain_Of_Responsibility
     {
         static void Main(string[] args)
         {
+
         }
     }
 }

@@ -47,6 +47,7 @@
     <Compile Include="Cor\CheckKbbScore.cs" />
     <Compile Include="Cor\CheckKreditCardPaymentTime.cs" />
     <Compile Include="Cor\CreditRequestBase.cs" />
+    <Compile Include="Cor\CustomersEarningsIsEnoughToPayCredit.cs" />
     <Compile Include="Entities\Customer.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

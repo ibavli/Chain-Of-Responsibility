@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cor\CheckGuarantorIsFine.cs" />
     <Compile Include="Cor\CheckKbbScore.cs" />
     <Compile Include="Cor\CheckKreditCardPaymentTime.cs" />
     <Compile Include="Cor\CreditRequestBase.cs" />
